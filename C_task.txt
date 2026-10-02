@@ -1,0 +1,70 @@
+TasK : C 
+
+1. Data Types & Variables (10 Questions)
+ 1.Write a C program to declare and initialize int, float, char, and double variables.
+ 2.Write a program to input two integers and display their sum.
+ 3.Write a program to calculate the area of a rectangle using variables.
+ 4.Write a program to convert Celsius to Fahrenheit.
+ 5.Write a program to swap two numbers using a third variable.
+ 6.Write a program to swap two numbers without using a third variable.
+ 7.Write a program to calculate Simple Interest.
+ 8.Write a program to calculate the average of five numbers.
+ 9.Write a program to find the ASCII value of a character.
+ 10.Write a program to calculate the total salary using Basic Salary, HRA, and DA.
+
+2. Functions (10 Questions)
+ 1.Write a function to print "Hello World".
+ 2.Write a function to add two numbers.
+ 3.Write a function to find the square of a number.
+ 4.Write a function to find the cube of a number.
+ 5.Write a function to find the maximum of two numbers.
+ 6.Write a function to check whether a number is even or odd.
+ 7.Write a function to calculate the factorial of a number.
+ 8.Write a function to check whether a number is prime.
+
+3. Arrays (10 Questions)
+ 1.Write a program to input and display 5 elements of an array.
+ 2.Write a program to find the sum of all array elements.
+ 3.Write a program to find the largest element in an array.
+ 4.Write a program to find the smallest element in an array.
+ 5.Write a program to count even and odd numbers in an array.
+ 6.Write a program to reverse an array.
+
+4. Loops (10 Questions)
+ 1.Print numbers from 1 to 10 using a for loop.
+ 2.Print numbers from 10 to 1 using a while loop.
+ 3.Print the multiplication table of a given number.
+ 4.Print all even numbers between 1 and 100.
+ 5.Print all prime numbers between 1 and 100.
+
+5. Pattern Programs
+
+Q.1)
+
+12345
+1234
+123
+12
+1
+
+Q.2)
+A
+AB
+ABC
+ABCD
+ABCDE
+
+Q.3)
+    *
+   ***
+  *****
+ *******
+*********
+
+Q.4) 
+
+*********
+ *******
+  *****
+   ***
+    *
