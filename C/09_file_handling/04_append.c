@@ -3,7 +3,7 @@
 
 int main(){
 	
-	FILE *file = fopen("test.txt","a");
+	FILE *file = fopen("demo.txt","a");
 	char str[100];
 	
 //	file 
@@ -12,7 +12,7 @@ int main(){
 		return 1;
 	}
 	
-	fputs("\nhello append data",file);
+	fputs("\nhello this front-end developer also content creator",file);
 	
 	fclose(file);
 	

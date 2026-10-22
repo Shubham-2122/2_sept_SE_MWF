@@ -11,7 +11,7 @@ int main(){
 		return 1;
 	}
 	
-	fprintf(file,"Hello this Write function");
+	fprintf(file,"Hello this shubham jadav");
 	fclose(file);
 	
 	printf("File data print successfully");

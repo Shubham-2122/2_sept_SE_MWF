@@ -3,7 +3,7 @@
 
 int main(){
 	
-	FILE *file = fopen("test.txt","r");
+	FILE *file = fopen("demo.txt","r");
 	char str[100];
 	
 //	file 
